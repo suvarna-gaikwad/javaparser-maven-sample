@@ -1,5 +1,5 @@
 JavaParser and Maven sample
------------------------------
+
 Testing git push
 A fully working sample Maven project that parses and generates code with [JavaParser](http://www.javaparser.org)
 
