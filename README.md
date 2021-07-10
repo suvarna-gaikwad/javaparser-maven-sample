@@ -1,6 +1,6 @@
 JavaParser and Maven sample
+---------------------------------
 
-Testing git push
 A fully working sample Maven project that parses and generates code with [JavaParser](http://www.javaparser.org)
 
 This is targeted at people without [Maven](https://maven.apache.org/) experience.
